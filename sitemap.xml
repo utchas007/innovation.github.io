@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://innovationacademy.github.io/index.html</loc>
+    <lastmod>2020-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://innovationacademy.github.io/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://innovationacademy.github.io/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://innovationacademy.github.io/images/branding.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://innovationacademy.github.io/images/design.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://innovationacademy.github.io/images/90-.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://innovationacademy.github.io/images/75-.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://innovationacademy.github.io/images/development.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://innovationacademy.github.io/images/responsive.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://innovationacademy.github.io/images/asset%204.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://innovationacademy.github.io/images/marketing.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://innovationacademy.github.io/images/seo.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
